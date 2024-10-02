@@ -1,0 +1,3 @@
+Individuals who are not heading to a particular destination and are not in a rush, go to bars or coffee houses often, and do not have a child with them in the car with them are more likely ro accept coupons for more expensive restaurants.
+
+There are other external factors that also seem to impact the acceptance rates as well. On days with nice weather, these coupon acceptance rates go up. We also see that when coupons are given with at least 1 day before expiration, that there are higher acceptance rates. Finally, age and gender do not appear to be a significant differentiator in acceptance rates.

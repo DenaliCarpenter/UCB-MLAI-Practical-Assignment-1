@@ -38,7 +38,7 @@ The overall acceptance rate was about **44.6%**. This rate appears to be lower t
 ## Income
 
 - **Disposable Income:** Individuals with disposable income tend to accept the coupon more frequently.
-- **Income Bracket of \\$25,000 - \\$37,499:** This group shows a higher acceptance rate compared to others, suggesting that those in this range might be more inclined to dine out due to limited time to cook.
+- **Income Bracket of \$25,000 - \$37,499:** This group shows a higher acceptance rate compared to others, suggesting that those in this range might be more inclined to dine out due to limited time to cook.
 
 ## Age
 
